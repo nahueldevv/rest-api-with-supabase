@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1f1b74b3-fdc1-4e6d-9ff1-f6f5b899f90b",
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "year": 1967,
+    "state": "available"
+  },
+  {
+    "id": "8fdbf8a7-b173-4cf1-a271-c6d4cd6bc66e",
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "state": "loaned"
+  },
+  {
+    "id": "e89e4826-56c8-4e85-8b57-8c3184293ff3",
+    "title": "El nombre del viento",
+    "author": "Patrick Rothfuss",
+    "year": 2007,
+    "state": "available"
+  },
+  {
+    "id": "2e2fa905-0aa4-4e2d-9b7d-3f3a6ffbb4ae",
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "year": 1953,
+    "state": "available"
+  },
+  {
+    "id": "bd4ef42e-c770-4cd6-8e40-0ceef885f2a7",
+    "title": "La sombra del viento",
+    "author": "Carlos Ruiz Zafón",
+    "year": 2001,
+    "state": "loaned"
+  },
+  {
+    "id": "9dff174e-23b4-462f-b178-227c36488d59",
+    "title": "Don Quijote de la Mancha",
+    "author": "Miguel de Cervantes",
+    "year": 1605,
+    "state": "available"
+  },
+  {
+    "id": "130e3d8b-ef39-4bd3-bc7c-6ee86e8f7092",
+    "title": "Crónica de una muerte anunciada",
+    "author": "Gabriel García Márquez",
+    "year": 1981,
+    "state": "loaned"
+  },
+  {
+    "id": "7050e9d6-2b9b-476b-90d2-d92d11cbd6ff",
+    "title": "El señor de los anillos",
+    "author": "J.R.R. Tolkien",
+    "year": 1954,
+    "state": "available"
+  },
+  {
+    "id": "4d23a99e-61d1-49f1-b837-700bbeb004ae",
+    "title": "Rayuela",
+    "author": "Julio Cortázar",
+    "year": 1963,
+    "state": "available"
+  },
+  {
+    "id": "6263b27a-0c3c-4dd4-87e3-2b19baf84762",
+    "title": "Los detectives salvajes",
+    "author": "Roberto Bolaño",
+    "year": 1998,
+    "state": "loaned"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "rest-api-supabase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server-with-pgsql",
+    "dev:local": "node --watch server-with-local.js",
+    "dev:pgsql": "node --watch server-with-pgsql.js",
+    "dev:mysql": "node --watch server-with-mysql.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "16.5.0",
+    "express": "5.1.0",
+    "mysql2": "3.14.1",
+    "postgres": "3.4.7",
+    "zod": "3.25.64"
+  }
+}
